@@ -76,6 +76,8 @@ These are the links to the datasets to be used for this project:
 
 4. [AI4Bharat](https://ai4bharat.org/datasets)
 
+5. [IndicNLP resources] (https://indicnlp.ai4bharat.org/pages/indicnlp-resources/)
+
 You are free to add any other dataset you find useful for the project.
 
 ## Other resources
@@ -98,10 +100,17 @@ You are free to add any other dataset you find useful for the project.
 
 * [Semantic Scholar](https://www.semanticscholar.org/)
 
+* [Indic NLP library](https://github.com/anoopkunchukuttan/indic_nlp_library)
+
+* [iNLTK](https://github.com/goru001/inltk)
+
+* [Stanza](https://github.com/stanfordnlp/stanza/)
+
+
 ## Conclusion
 
 We hope this repository becomes a collaborative space where we can share knowledge, work on exciting projects, and make significant contributions to the field of deep learning. Let's learn, grow, and achieve together as Group 16!
 
-For any questions or concerns, please reach out to the repository administrator (Nick Yazdani).
+For any questions or concerns, please reach out to the repository administrator (Rohit1887  .
 
 Happy coding!
