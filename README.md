@@ -61,7 +61,11 @@ Please note that all contributions to this repository should align with the proj
 3. Then run the following:
 
 ```console
+#For GPU integration with PyTorch
 pip install -r requirements.txt --index-url https://download.pytorch.org/whl/cu118
+
+#For only CPU integration with PyTorch comment the torch, torchaudio, torchvision and torchviz from requirements.txt and then execute
+pip3 install torch==1.11.0+cpu torchvision==0.12.0+cpu -f https://download.pytorch.org/whl/torch_stable.html && pip3 install torchaudio && pip3 install torchvision && pip3 install torchviz
 ```
 
 ## Datasets
