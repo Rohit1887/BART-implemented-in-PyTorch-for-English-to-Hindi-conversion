@@ -86,6 +86,8 @@ You are free to add any other dataset you find useful for the project.
 
 ## Other resources
 
+* [Youtube learning resources](https://youtube.com/playlist?list=PLycNLaK_Uuq0DaslFBEFB-Rd8TGSSRb-d)
+
 * [Micrograd](https://github.com/karpathy/micrograd)
 
 * [Tinygrad](https://github.com/geohot/tinygrad)
