@@ -76,7 +76,7 @@ These are the links to the datasets to be used for this project:
 
 4. [AI4Bharat](https://ai4bharat.org/datasets)
 
-5. [IndicNLP resources] (https://indicnlp.ai4bharat.org/pages/indicnlp-resources/)
+5. [IndicNLP resources](https://indicnlp.ai4bharat.org/pages/indicnlp-resources/)
 
 You are free to add any other dataset you find useful for the project.
 
