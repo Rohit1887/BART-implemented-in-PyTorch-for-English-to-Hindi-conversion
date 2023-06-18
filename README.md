@@ -111,6 +111,6 @@ You are free to add any other dataset you find useful for the project.
 
 We hope this repository becomes a collaborative space where we can share knowledge, work on exciting projects, and make significant contributions to the field of deep learning. Let's learn, grow, and achieve together as Group 16!
 
-For any questions or concerns, please reach out to the repository administrator (Rohit1887  .
+For any questions or concerns, please reach out to the repository administrator (Rohit1887).
 
 Happy coding!
