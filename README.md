@@ -74,13 +74,9 @@ These are the links to the datasets to be used for this project:
 
 1. [English-Hindi Corpus](https://www.cfilt.iitb.ac.in/iitb_parallel/)
 
-2. [Speech Dataset](https://ieee-dataport.org/open-access/speech-dataset-hindi-language)
+2. [AI4Bharat](https://ai4bharat.org/datasets)
 
-3. [NLP for Hindi](https://github.com/goru001/nlp-for-hindi)
-
-4. [AI4Bharat](https://ai4bharat.org/datasets)
-
-5. [IndicNLP resources](https://indicnlp.ai4bharat.org/pages/indicnlp-resources/)
+3. [IndicNLP resources](https://indicnlp.ai4bharat.org/pages/indicnlp-resources/)
 
 You are free to add any other dataset you find useful for the project.
 
