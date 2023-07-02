@@ -1,4 +1,4 @@
-# Group 16 - Deep Learning
+# Tailored BART with PyTorch for English to Hindi conversion
 
 Welcome to the Group 16 - Deep Learning repository! This repository serves as a central hub for our team to share resources, collaborate on code, and showcase our work in the field of deep learning. We aim to create an environment where we can learn, grow, and achieve our goals together.
 
